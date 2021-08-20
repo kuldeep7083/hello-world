@@ -1,2 +1,3 @@
 # hello-world
 this is how im gonna learn a new techonology....
+i'll be a good programmer one day
